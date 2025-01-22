@@ -1,0 +1,4 @@
+C:\Users\nicol\RiderProjects\basura\FuerzabrutaI\FuerzabrutaI\obj\Debug\net8.0\FuerzabrutaI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\RiderProjects\basura\FuerzabrutaI\FuerzabrutaI\obj\Debug\net8.0\FuerzabrutaI.AssemblyInfoInputs.cache
+C:\Users\nicol\RiderProjects\basura\FuerzabrutaI\FuerzabrutaI\obj\Debug\net8.0\FuerzabrutaI.AssemblyInfo.cs
+C:\Users\nicol\RiderProjects\basura\FuerzabrutaI\FuerzabrutaI\obj\Debug\net8.0\FuerzabrutaI.csproj.CoreCompileInputs.cache
