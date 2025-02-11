@@ -2,3 +2,14 @@ C:\Users\nicol\RiderProjects\basura\FuerzabrutaI\FuerzabrutaI\obj\Debug\net8.0\F
 C:\Users\nicol\RiderProjects\basura\FuerzabrutaI\FuerzabrutaI\obj\Debug\net8.0\FuerzabrutaI.AssemblyInfoInputs.cache
 C:\Users\nicol\RiderProjects\basura\FuerzabrutaI\FuerzabrutaI\obj\Debug\net8.0\FuerzabrutaI.AssemblyInfo.cs
 C:\Users\nicol\RiderProjects\basura\FuerzabrutaI\FuerzabrutaI\obj\Debug\net8.0\FuerzabrutaI.csproj.CoreCompileInputs.cache
+C:\Users\nicol\RiderProjects\basura\FuerzabrutaI\FuerzabrutaI\obj\Debug\net8.0\FuerzabrutaI.sourcelink.json
+C:\Users\nicol\RiderProjects\basura\FuerzabrutaI\FuerzabrutaI\bin\Debug\net8.0\FuerzabrutaI.exe
+C:\Users\nicol\RiderProjects\basura\FuerzabrutaI\FuerzabrutaI\bin\Debug\net8.0\FuerzabrutaI.deps.json
+C:\Users\nicol\RiderProjects\basura\FuerzabrutaI\FuerzabrutaI\bin\Debug\net8.0\FuerzabrutaI.runtimeconfig.json
+C:\Users\nicol\RiderProjects\basura\FuerzabrutaI\FuerzabrutaI\bin\Debug\net8.0\FuerzabrutaI.dll
+C:\Users\nicol\RiderProjects\basura\FuerzabrutaI\FuerzabrutaI\bin\Debug\net8.0\FuerzabrutaI.pdb
+C:\Users\nicol\RiderProjects\basura\FuerzabrutaI\FuerzabrutaI\obj\Debug\net8.0\FuerzabrutaI.dll
+C:\Users\nicol\RiderProjects\basura\FuerzabrutaI\FuerzabrutaI\obj\Debug\net8.0\refint\FuerzabrutaI.dll
+C:\Users\nicol\RiderProjects\basura\FuerzabrutaI\FuerzabrutaI\obj\Debug\net8.0\FuerzabrutaI.pdb
+C:\Users\nicol\RiderProjects\basura\FuerzabrutaI\FuerzabrutaI\obj\Debug\net8.0\FuerzabrutaI.genruntimeconfig.cache
+C:\Users\nicol\RiderProjects\basura\FuerzabrutaI\FuerzabrutaI\obj\Debug\net8.0\ref\FuerzabrutaI.dll
